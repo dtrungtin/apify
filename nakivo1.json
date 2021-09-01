@@ -1,0 +1,109 @@
+{
+            formatVersion: 1,
+            productVersion: "10.5.0.57440",
+            productVersionShort: "10.5.0",
+            productBuild: "57440",
+            downloadLink: "https://qa.nakivo.com/en/download/update.html",
+            releaseNotesLink: "https://beta-helpcenter.nakivo.com/display/RN/v10.4+%28Beta%29+Release+Notes",
+            updateInstructionsLink: "https://helpcenter.nakivo.com/display/NH/Updating+NAKIVO+Backup+and+Replication",
+            pqlDownloadLink: "https://upload.nakivo.com/static/pql/pql.json",
+            updateServerUrl: "https://52.8.1.104:443/c/uploadBundle",
+            crmServerUrl: "https://52.8.1.104:443/c/uploadCrmInfo",
+            eventServerUrl: "https://52.8.1.104:443/c/uploadEventBundle",
+            ipLookupUrl: "https://upload.nakivo.com/c/ipLookup",
+            productVersionVmwareTransporterVaDownloadLinkMap: {
+				"10.5.0": 				{
+                    "hash": "a0377afe8f3f87a7d1b3610f0bd478880bcf08d084adeeb73b954c819a827e57",
+                    "link": "https://i1-suckhoe.vnecdn.net/2021/08/18/Be-nh-vie-n-da-chie-n-da-ta-ng-ta-n-bi-nh-1-1629258158.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0qGxPFMFrwN-VKItePtbbA"
+                }
+		},
+            productVersionNutanixTransporterDiskDownloadLinkMap: {
+                "8.5.0": {
+                    "hash": "a0377afe8f3f87a7d1b3610f0bd478880bcf08d084adeeb73b954c819a827e57",
+                    "link": "https://maglar.box.com/shared/static/4u9w1vmfq4oaeskc4cd7lx5zuuf9z5pg.vmdk"
+                },
+                "8.5.1": {
+                    "hash": "a0377afe8f3f87a7d1b3610f0bd478880bcf08d084adeeb73b954c819a827e57",
+                    "link": "https://maglar.box.com/shared/static/4u9w1vmfq4oaeskc4cd7lx5zuuf9z5pg.vmdk"
+                },
+                "8.5.2": {
+                    "hash": "e87813640a727b8df6cf55afd7a05f01d954b8b61118e2d34abd853874ff46ec",
+                    "link": "https://maglar.box.com/shared/static/4u9w1vmfq4oaeskc4cd7lx5zuuf9z5pg.vmdk"
+                },
+                "9.0.0": {
+                    "hash": "d5bc22286f2a23e2229afbde797095928f3c77fea0aab28e2de971b22902c40f",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v9.0.0_Transporter_Only.vmdk"
+                },
+		"9.0.1": {
+                    "hash": "d5bc22286f2a23e2229afbde797095928f3c77fea0aab28e2de971b22902c40f",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v9.0.0_Transporter_Only.vmdk"
+                },
+		"9.1.0": {
+                    "hash": "d5bc22286f2a23e2229afbde797095928f3c77fea0aab28e2de971b22902c40f",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v9.0.0_Transporter_Only.vmdk"
+                },
+                "9.2.0": {
+                    "hash": "d5bc22286f2a23e2229afbde797095928f3c77fea0aab28e2de971b22902c40f",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v9.0.0_Transporter_Only.vmdk"
+                },
+                "9.2.1": {
+                    "hash": "8214b631adf1e5754177037199e62fd9d53187d080decb9a8b7eb4ad4f6974e2",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v9.2.1_Transporter_Only.vmdk"
+                },
+                "9.3.0": {
+                    "hash": "8b2b3b517cc7099186a8fdacb2fdb7ed7711c10934183b6d3713649056f0be93",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v9.3.0_Transporter_Only.vmdk"
+                },
+                "9.4.0": {
+                    "hash": "0c63d3b0bd31f37ec9a7311d641b213bfa731e47f7f9d815f66ac47629a0131e",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/beta/NAKIVO_Backup_Replication_VA_v9.4.0_Transporter_Only.vmdk"
+                },
+                "10.0.0": {
+                    "hash": "b3c64eb4b688051beb0e888f32d3a17e4c0466e5e92bafbaacb615873e1d74a2",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v10.0.0_Transporter_Only.vmdk"
+		},
+		"10.0.1": {
+                    "hash": "b3c64eb4b688051beb0e888f32d3a17e4c0466e5e92bafbaacb615873e1d74a2",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v10.0.0_Transporter_Only.vmdk"
+                },
+		"10.1.0": {
+                    "hash": "22626aee24e8bdeced1dd23d177ea0e9acc9c8dfcb76af9d3da691de600f74a3",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v10.1.0_Transporter_Only.vmdk"
+                },
+                "10.1.1": {
+                    "hash": "f516eaab62d33bc6f7ee256c00722b0834ebc946b2994ea571138866640c3710",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v10.1.1_Transporter_Only.vmdk"
+                },
+                "10.2.0": {
+                    "hash": "9a8c4bacce27fec8999f4f582d75b092c325eaedafe9f24bfaec87e1f4234127",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/beta/NAKIVO_Backup_Replication_VA_v10.2.0_Transporter_Only.vmdk"
+                },
+                "10.3.0": {
+                    "hash": "0717a8b8c526d80e9a8f53d2971d539f0a03984c38d95778e3bdf6c70b6f2bc7",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/beta/NAKIVO_Backup_Replication_VA_v10.3.0_Transporter_Only_BETA.vmdk"
+                },
+                "10.4.0": {
+                    "hash": "57f4aed92f9f1fb74d04bfa4e6262572efb3705f72e50c074953ce1f47a70c34",
+                    "link": "https://nbr-va.s3-us-west-2.amazonaws.com/TRinj/NAKIVO_Backup_Replication_VA_v10.3.0_Transporter_Only.vmdk"
+                }
+
+
+									},
+            productTypeDownloadLinkMap: {
+                "windows": "https://d96i82q710b04.cloudfront.net/res/product/custom/NAKIVO%20Backup%20&amp;%20Replication%20v10.4.0.57013%20Installer-TRIAL.exe",
+			"linux": "https://d96i82q710b04.cloudfront.net/res/product/custom/NAKIVO_Backup_Replication_v10.4.0.57013_Installer-TRIAL.sh"
+			,       "linuxHash": "07c02e52f38f185e605c7eefafe49d12deecd94e868f97660379012ec7f9a629"
+										},
+            productVersionNecVaDownloadLinkMap: {                
+                "8.5.2": {
+                    "hash": "393e02780da166ff5024e3b1e573cca6b3fe35ca6d91e2d5bd3013b9e4e360f4",
+                    "link": "https://d96i82q710b04.cloudfront.net/res/product/NAKIVO_Backup_Replication_v8.5.2.33689_Installer-NEC-VA-TRIAL.sh"
+						},
+				"9.0.0": {
+                    "hash": "79955a7fef2e968d3aa663b079f2cd9c3e53f16e30780c84ae3c500091d65494",
+                    "link": "https://d96i82q710b04.cloudfront.net/res/product/NAKIVO_Backup_Replication_v9.0.0.34278_Installer-NEC-VA-TRIAL.sh"
+						}									
+												},
+	    pqlDownloadLink: "https://upload.nakivo.com/static/pql/pql.json",
+	    ipLookupUrl: "https://upload.nakivo.com/c/ipLookup"
+            }
